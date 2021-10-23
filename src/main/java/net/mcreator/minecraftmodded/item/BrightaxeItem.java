@@ -1,21 +1,12 @@
 
 package net.mcreator.minecraftmodded.item;
 
-import net.minecraftforge.registries.ObjectHolder;
-
-import net.minecraft.item.crafting.Ingredient;
-import net.minecraft.item.ItemStack;
-import net.minecraft.item.Item;
-import net.minecraft.item.IItemTier;
-import net.minecraft.item.AxeItem;
-
-import net.mcreator.minecraftmodded.itemgroup.LucascrapItemGroup;
-import net.mcreator.minecraftmodded.MinecraftmoddedModElements;
-
 @MinecraftmoddedModElements.ModElement.Tag
 public class BrightaxeItem extends MinecraftmoddedModElements.ModElement {
+
 	@ObjectHolder("minecraftmodded:brightaxe")
 	public static final Item block = null;
+
 	public BrightaxeItem(MinecraftmoddedModElements instance) {
 		super(instance, 49);
 	}
@@ -47,6 +38,8 @@ public class BrightaxeItem extends MinecraftmoddedModElements.ModElement {
 				return Ingredient.fromStacks(new ItemStack(BrightcrossItem.block));
 			}
 		}, 1, 5.6f, new Item.Properties().group(LucascrapItemGroup.tab).isImmuneToFire()) {
+
 		}.setRegistryName("brightaxe"));
 	}
+
 }

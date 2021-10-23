@@ -326,6 +326,44 @@
       "ids": {},
       "registry_name": "whatawaste",
       "path": "~/lucas_stuff"
+    },
+    {
+      "name": "Wicked",
+      "type": "procedure",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Cyhgki",
+      "type": "fuel",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyhgki"
     }
   ],
   "variable_elements": [],
@@ -359,31 +397,19 @@
     "name": "~",
     "children": [
       {
-        "name": "Items",
-        "children": []
-      },
-      {
-        "name": "Tools",
-        "children": []
-      },
-      {
         "name": "lucas_stuff",
         "children": []
       },
       {
-        "name": "Recipes",
+        "name": "Poggers",
         "children": []
       },
       {
-        "name": "Mobs",
+        "name": "MOBs",
         "children": []
       },
       {
-        "name": "Blocks",
-        "children": []
-      },
-      {
-        "name": "Armour",
+        "name": "minecraftmod",
         "children": []
       }
     ]

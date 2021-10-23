@@ -1,21 +1,12 @@
 
 package net.mcreator.minecraftmodded.item;
 
-import net.minecraftforge.registries.ObjectHolder;
-
-import net.minecraft.item.crafting.Ingredient;
-import net.minecraft.item.PickaxeItem;
-import net.minecraft.item.ItemStack;
-import net.minecraft.item.Item;
-import net.minecraft.item.IItemTier;
-
-import net.mcreator.minecraftmodded.itemgroup.LucascrapItemGroup;
-import net.mcreator.minecraftmodded.MinecraftmoddedModElements;
-
 @MinecraftmoddedModElements.ModElement.Tag
 public class BrightpickItem extends MinecraftmoddedModElements.ModElement {
+
 	@ObjectHolder("minecraftmodded:brightpick")
 	public static final Item block = null;
+
 	public BrightpickItem(MinecraftmoddedModElements instance) {
 		super(instance, 48);
 	}
@@ -47,6 +38,8 @@ public class BrightpickItem extends MinecraftmoddedModElements.ModElement {
 				return Ingredient.fromStacks(new ItemStack(BrightcrossItem.block));
 			}
 		}, 1, -3f, new Item.Properties().group(LucascrapItemGroup.tab).isImmuneToFire()) {
+
 		}.setRegistryName("brightpick"));
 	}
+
 }

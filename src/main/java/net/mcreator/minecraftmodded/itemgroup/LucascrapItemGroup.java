@@ -1,17 +1,9 @@
 
 package net.mcreator.minecraftmodded.itemgroup;
 
-import net.minecraftforge.api.distmarker.OnlyIn;
-import net.minecraftforge.api.distmarker.Dist;
-
-import net.minecraft.item.ItemStack;
-import net.minecraft.item.ItemGroup;
-
-import net.mcreator.minecraftmodded.item.BrightcrossItem;
-import net.mcreator.minecraftmodded.MinecraftmoddedModElements;
-
 @MinecraftmoddedModElements.ModElement.Tag
 public class LucascrapItemGroup extends MinecraftmoddedModElements.ModElement {
+
 	public LucascrapItemGroup(MinecraftmoddedModElements instance) {
 		super(instance, 36);
 	}
@@ -31,5 +23,7 @@ public class LucascrapItemGroup extends MinecraftmoddedModElements.ModElement {
 			}
 		};
 	}
+
 	public static ItemGroup tab;
+
 }
