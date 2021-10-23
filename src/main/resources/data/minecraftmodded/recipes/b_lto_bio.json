@@ -1,0 +1,16 @@
+{
+  "group": "minecraftmodded",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraftmodded:brightsludge"
+    },
+    {
+      "item": "minecraft:obsidian"
+    }
+  ],
+  "result": {
+    "item": "minecraftmodded:brightinfusedobsidian",
+    "count": 1
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "bright2",
+    "customModelName": "Normal",
+    "name": "Bright axe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Lucascrap"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 2,
+    "efficiency": 15.0,
+    "attackSpeed": 9.6,
+    "enchantability": 10,
+    "damageVsEntity": 20.0,
+    "usageCount": 10000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Brightcross"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

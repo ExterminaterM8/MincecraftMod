@@ -1,0 +1,42 @@
+{
+  "group": "minecraftmodded",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraftmodded:deleted_mod_element"
+    },
+    "1": {
+      "item": "minecraftmodded:deleted_mod_element"
+    },
+    "2": {
+      "item": "minecraftmodded:deleted_mod_element"
+    },
+    "3": {
+      "item": "minecraftmodded:deleted_mod_element"
+    },
+    "4": {
+      "item": "minecraftmodded:deleted_mod_element"
+    },
+    "5": {
+      "item": "minecraftmodded:deleted_mod_element"
+    },
+    "6": {
+      "item": "minecraftmodded:deleted_mod_element"
+    },
+    "7": {
+      "item": "minecraftmodded:deleted_mod_element"
+    },
+    "8": {
+      "item": "minecraftmodded:deleted_mod_element"
+    }
+  },
+  "result": {
+    "item": "minecraftmodded:brightblock",
+    "count": 1
+  }
+}

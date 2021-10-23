@@ -1,7 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "minecraftmodded:blocks/einsteinium_ore",
-    "particle": "minecraftmodded:blocks/einsteinium_ore"
-  }
-}

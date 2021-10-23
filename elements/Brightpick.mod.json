@@ -1,0 +1,31 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "cright2",
+    "customModelName": "Normal",
+    "name": "Bright pickaxe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Lucascrap"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 41,
+    "efficiency": 17.0,
+    "attackSpeed": 1.0,
+    "enchantability": 16,
+    "damageVsEntity": 4.0,
+    "usageCount": 10000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Brightcross"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

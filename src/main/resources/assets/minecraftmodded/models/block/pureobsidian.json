@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "minecraftmodded:blocks/eeee",
+    "up": "minecraftmodded:blocks/eeee",
+    "north": "minecraftmodded:blocks/eeee",
+    "east": "minecraftmodded:blocks/eeee",
+    "south": "minecraftmodded:blocks/eeee",
+    "west": "minecraftmodded:blocks/eeee",
+    "particle": "minecraftmodded:blocks/eeee"
+  }
+}

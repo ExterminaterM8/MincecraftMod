@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "minecraftmodded:blocks/bright_infused_obsidian",
+    "up": "minecraftmodded:blocks/bright_infused_obsidian",
+    "north": "minecraftmodded:blocks/bright_infused_obsidian",
+    "east": "minecraftmodded:blocks/bright_infused_obsidian",
+    "south": "minecraftmodded:blocks/bright_infused_obsidian",
+    "west": "minecraftmodded:blocks/bright_infused_obsidian",
+    "particle": "minecraftmodded:blocks/bright_infused_obsidian"
+  }
+}

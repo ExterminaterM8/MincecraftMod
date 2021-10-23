@@ -1,0 +1,30 @@
+{
+  "group": "minecraftmodded",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:redstone"
+    },
+    "3": {
+      "item": "minecraftmodded:deleted_mod_element"
+    },
+    "4": {
+      "item": "minecraftmodded:brightblock"
+    },
+    "5": {
+      "item": "minecraftmodded:deleted_mod_element"
+    },
+    "7": {
+      "item": "minecraftmodded:deleted_mod_element"
+    }
+  },
+  "result": {
+    "item": "minecraftmodded:summoner",
+    "count": 1
+  }
+}

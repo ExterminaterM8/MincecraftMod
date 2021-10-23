@@ -2,208 +2,24 @@
   "id_map": {},
   "mod_elements": [
     {
-      "name": "Einsteinium",
-      "type": "item",
-      "sortid": 1,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "einsteinium"
-    },
-    {
-      "name": "EinsteiniumOre",
+      "name": "Brightblock",
       "type": "block",
-      "sortid": 2,
+      "sortid": 24,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "einsteinium_ore"
+      "registry_name": "brightblock",
+      "path": "~/lucas_stuff"
     },
     {
-      "name": "EinsteiniumBlock",
+      "name": "Brightore",
       "type": "block",
-      "sortid": 3,
+      "sortid": 25,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "einsteinium_block"
-    },
-    {
-      "name": "EinsteiniumOreBlockRecipe",
-      "type": "recipe",
-      "sortid": 4,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "einsteinium_ore_block_recipe"
-    },
-    {
-      "name": "EinsteiniumBlockOreRecipe",
-      "type": "recipe",
-      "sortid": 5,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "einsteinium_block_ore_recipe"
-    },
-    {
-      "name": "EinsteiniumOreSmelting",
-      "type": "recipe",
-      "sortid": 6,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "einsteinium_ore_smelting"
-    },
-    {
-      "name": "EinsteiniumPickaxe",
-      "type": "tool",
-      "sortid": 7,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "einsteinium_pickaxe"
-    },
-    {
-      "name": "EinsteiniumAxe",
-      "type": "tool",
-      "sortid": 8,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "einsteinium_axe"
-    },
-    {
-      "name": "EinsteiniumSword",
-      "type": "tool",
-      "sortid": 9,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "einsteinium_sword"
-    },
-    {
-      "name": "EinsteiniumShovel",
-      "type": "tool",
-      "sortid": 10,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "einsteinium_shovel"
-    },
-    {
-      "name": "EinsteiniumHoe",
-      "type": "tool",
-      "sortid": 11,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "einsteinium_hoe"
-    },
-    {
-      "name": "EinsteiniumPickaxeRecipe",
-      "type": "recipe",
-      "sortid": 12,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "einsteinium_pickaxe_recipe"
-    },
-    {
-      "name": "EinsteiniumAxeRecipe",
-      "type": "recipe",
-      "sortid": 13,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "einsteinium_axe_recipe"
-    },
-    {
-      "name": "EinsteiniumSwordRecipe",
-      "type": "recipe",
-      "sortid": 14,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "einsteinium_sword_recipe"
-    },
-    {
-      "name": "EinsteiniumShovelRecipe",
-      "type": "recipe",
-      "sortid": 15,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "einsteinium_shovel_recipe"
-    },
-    {
-      "name": "EinsteiniumHoeRecipe",
-      "type": "recipe",
-      "sortid": 16,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "einsteinium_hoe_recipe"
-    },
-    {
-      "name": "EinsteiniumArmor",
-      "type": "armor",
-      "sortid": 17,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "einsteinium_armor",
-      "metadata": {
-        "eh": true,
-        "el": true,
-        "eb": true,
-        "ec": true
-      }
-    },
-    {
-      "name": "EinsteiniumArmorHelmetRecipe",
-      "type": "recipe",
-      "sortid": 18,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "einsteinium_armor_helmet_recipe"
-    },
-    {
-      "name": "EinsteiniumArmorBodyRecipe",
-      "type": "recipe",
-      "sortid": 19,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "einsteinium_armor_body_recipe"
-    },
-    {
-      "name": "EinsteiniumArmorLeggingsRecipe",
-      "type": "recipe",
-      "sortid": 20,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "einsteinium_armor_leggings_recipe"
-    },
-    {
-      "name": "EinsteiniumArmorBootsRecipe",
-      "type": "recipe",
-      "sortid": 21,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "einsteinium_armor_boots_recipe"
-    },
-    {
-      "name": "Cyhgki",
-      "type": "fuel",
-      "sortid": 22,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "cyhgki"
+      "registry_name": "brightore",
+      "path": "~/lucas_stuff"
     },
     {
       "name": "Wicked",
@@ -235,23 +51,318 @@
       }
     },
     {
-      "name": "Brightblock",
-      "type": "block",
-      "sortid": 24,
+      "name": "Cyhgki",
+      "type": "fuel",
+      "sortid": 22,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "brightblock",
+      "registry_name": "cyhgki"
+    },
+    {
+      "name": "Summoner",
+      "type": "block",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "summoner",
       "path": "~/lucas_stuff"
     },
     {
-      "name": "Brightore",
-      "type": "block",
-      "sortid": 25,
+      "name": "Ooooo",
+      "type": "recipe",
+      "sortid": 32,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "brightore",
+      "registry_name": "ooooo",
+      "path": "~/lucas_stuff"
+    },
+    {
+      "name": "Smelte",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smelte",
+      "path": "~/lucas_stuff"
+    },
+    {
+      "name": "SummonerRedstoneOn",
+      "type": "procedure",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "summoner_redstone_on",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Oooo",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oooo",
+      "path": "~/lucas_stuff"
+    },
+    {
+      "name": "Pureobsidian",
+      "type": "block",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pureobsidian",
+      "path": "~/lucas_stuff"
+    },
+    {
+      "name": "E",
+      "type": "recipe",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "e",
+      "path": "~/lucas_stuff"
+    },
+    {
+      "name": "Summonere",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "summonere",
+      "path": "~/lucas_stuff"
+    },
+    {
+      "name": "Bright",
+      "type": "item",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bright",
+      "path": "~/lucas_stuff"
+    },
+    {
+      "name": "Brightpick",
+      "type": "tool",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brightpick",
+      "path": "~/lucas_stuff"
+    },
+    {
+      "name": "Brightcross",
+      "type": "item",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brightcross",
+      "path": "~/lucas_stuff"
+    },
+    {
+      "name": "Brightinfusedobsidian",
+      "type": "block",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brightinfusedobsidian",
+      "path": "~/lucas_stuff"
+    },
+    {
+      "name": "Whatawaste",
+      "type": "achievement",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "whatawaste",
+      "path": "~/lucas_stuff"
+    },
+    {
+      "name": "Brightsludge",
+      "type": "item",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brightsludge",
+      "path": "~/lucas_stuff"
+    },
+    {
+      "name": "BLtoBIO",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "b_lto_bio",
+      "path": "~/lucas_stuff"
+    },
+    {
+      "name": "Eee",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "eee",
+      "path": "~/lucas_stuff"
+    },
+    {
+      "name": "Btobc",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "btobc",
+      "path": "~/lucas_stuff"
+    },
+    {
+      "name": "Lucascrap",
+      "type": "tab",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lucascrap",
+      "path": "~/lucas_stuff"
+    },
+    {
+      "name": "Blste",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blste",
+      "path": "~/lucas_stuff"
+    },
+    {
+      "name": "Thebright23",
+      "type": "livingentity",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "thebright_23",
+      "path": "~/lucas_stuff"
+    },
+    {
+      "name": "Brighthoe",
+      "type": "tool",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brighthoe",
+      "path": "~/lucas_stuff"
+    },
+    {
+      "name": "Thedown",
+      "type": "biome",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "thedown",
+      "path": "~/lucas_stuff"
+    },
+    {
+      "name": "Brightsword",
+      "type": "tool",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brightsword",
+      "path": "~/lucas_stuff"
+    },
+    {
+      "name": "Brightshovel",
+      "type": "tool",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brightshovel",
+      "path": "~/lucas_stuff"
+    },
+    {
+      "name": "Eeeeee",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "eeeeee",
+      "path": "~/lucas_stuff"
+    },
+    {
+      "name": "Thebright",
+      "type": "dimension",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "thebright",
+      "metadata": {
+        "ep": true
+      },
+      "path": "~/lucas_stuff"
+    },
+    {
+      "name": "Eeeee",
+      "type": "block",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "eeeee",
+      "path": "~/lucas_stuff"
+    },
+    {
+      "name": "Brightaxe",
+      "type": "tool",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brightaxe",
       "path": "~/lucas_stuff"
     }
   ],
@@ -269,6 +380,7 @@
       "item.minecraftmodded.einsteinium_armor_leggings": "Einsteinium Leggings",
       "item.minecraftmodded.einsteinium_armor_chestplate": "Einsteinium Chestplate",
       "item.minecraftmodded.einsteinium_axe": "Einsteinium Axe",
+      "block.minecraftmodded.summoner": "Summoner",
       "item.minecraftmodded.einsteinium": "Einsteinium",
       "item.minecraftmodded.einsteinium_sword": "Einsteinium Sword",
       "item.minecraftmodded.einsteinium_shovel": "Einsteinium Shovel",
@@ -279,6 +391,10 @@
     "name": "~",
     "children": [
       {
+        "name": "lucas_stuff",
+        "children": []
+      },
+      {
         "name": "Poggers",
         "children": []
       },
@@ -288,10 +404,6 @@
       },
       {
         "name": "minecraftmod",
-        "children": []
-      },
-      {
-        "name": "lucas_stuff",
         "children": []
       }
     ]

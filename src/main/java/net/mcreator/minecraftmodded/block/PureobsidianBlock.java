@@ -5,13 +5,13 @@ import net.minecraft.block.material.Material;
 import net.minecraft.util.SoundEvent;
 
 @MinecraftmoddedModElements.ModElement.Tag
-public class BrightoreBlock extends MinecraftmoddedModElements.ModElement {
+public class PureobsidianBlock extends MinecraftmoddedModElements.ModElement {
 
-	@ObjectHolder("minecraftmodded:brightore")
+	@ObjectHolder("minecraftmodded:pureobsidian")
 	public static final Block block = null;
 
-	public BrightoreBlock(MinecraftmoddedModElements instance) {
-		super(instance, 25);
+	public PureobsidianBlock(MinecraftmoddedModElements instance) {
+		super(instance, 41);
 
 	}
 
@@ -24,9 +24,9 @@ public class BrightoreBlock extends MinecraftmoddedModElements.ModElement {
 	public static class CustomBlock extends Block {
 
 		public CustomBlock() {
-			super(Block.Properties.create(Material.ROCK).sound(SoundType.GROUND).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0));
+			super(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0));
 
-			setRegistryName("brightore");
+			setRegistryName("pureobsidian");
 		}
 
 		@Override
