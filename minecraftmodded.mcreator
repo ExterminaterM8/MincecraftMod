@@ -2,201 +2,6 @@
   "id_map": {},
   "mod_elements": [
     {
-      "name": "Einsteinium",
-      "type": "item",
-      "sortid": 1,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "einsteinium"
-    },
-    {
-      "name": "EinsteiniumOre",
-      "type": "block",
-      "sortid": 2,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "einsteinium_ore"
-    },
-    {
-      "name": "EinsteiniumBlock",
-      "type": "block",
-      "sortid": 3,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "einsteinium_block"
-    },
-    {
-      "name": "EinsteiniumOreBlockRecipe",
-      "type": "recipe",
-      "sortid": 4,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "einsteinium_ore_block_recipe"
-    },
-    {
-      "name": "EinsteiniumBlockOreRecipe",
-      "type": "recipe",
-      "sortid": 5,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "einsteinium_block_ore_recipe"
-    },
-    {
-      "name": "EinsteiniumOreSmelting",
-      "type": "recipe",
-      "sortid": 6,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "einsteinium_ore_smelting"
-    },
-    {
-      "name": "EinsteiniumPickaxe",
-      "type": "tool",
-      "sortid": 7,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "einsteinium_pickaxe"
-    },
-    {
-      "name": "EinsteiniumAxe",
-      "type": "tool",
-      "sortid": 8,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "einsteinium_axe"
-    },
-    {
-      "name": "EinsteiniumSword",
-      "type": "tool",
-      "sortid": 9,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "einsteinium_sword"
-    },
-    {
-      "name": "EinsteiniumShovel",
-      "type": "tool",
-      "sortid": 10,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "einsteinium_shovel"
-    },
-    {
-      "name": "EinsteiniumHoe",
-      "type": "tool",
-      "sortid": 11,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "einsteinium_hoe"
-    },
-    {
-      "name": "EinsteiniumPickaxeRecipe",
-      "type": "recipe",
-      "sortid": 12,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "einsteinium_pickaxe_recipe"
-    },
-    {
-      "name": "EinsteiniumAxeRecipe",
-      "type": "recipe",
-      "sortid": 13,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "einsteinium_axe_recipe"
-    },
-    {
-      "name": "EinsteiniumSwordRecipe",
-      "type": "recipe",
-      "sortid": 14,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "einsteinium_sword_recipe"
-    },
-    {
-      "name": "EinsteiniumShovelRecipe",
-      "type": "recipe",
-      "sortid": 15,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "einsteinium_shovel_recipe"
-    },
-    {
-      "name": "EinsteiniumHoeRecipe",
-      "type": "recipe",
-      "sortid": 16,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "einsteinium_hoe_recipe"
-    },
-    {
-      "name": "EinsteiniumArmor",
-      "type": "armor",
-      "sortid": 17,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "einsteinium_armor",
-      "metadata": {
-        "eh": true,
-        "el": true,
-        "eb": true,
-        "ec": true
-      }
-    },
-    {
-      "name": "EinsteiniumArmorHelmetRecipe",
-      "type": "recipe",
-      "sortid": 18,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "einsteinium_armor_helmet_recipe"
-    },
-    {
-      "name": "EinsteiniumArmorBodyRecipe",
-      "type": "recipe",
-      "sortid": 19,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "einsteinium_armor_body_recipe"
-    },
-    {
-      "name": "EinsteiniumArmorLeggingsRecipe",
-      "type": "recipe",
-      "sortid": 20,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "einsteinium_armor_leggings_recipe"
-    },
-    {
-      "name": "EinsteiniumArmorBootsRecipe",
-      "type": "recipe",
-      "sortid": 21,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "einsteinium_armor_boots_recipe"
-    },
-    {
       "name": "Brightblock",
       "type": "block",
       "sortid": 24,
@@ -529,36 +334,24 @@
     "en_us": {
       "item.minecraftmodded.brightsludge": "Dark sludge",
       "item.minecraftmodded.brightaxe": "Bright axe",
-      "item.minecraftmodded.einsteinium_pickaxe": "Einsteinium Pickaxe",
       "block.minecraftmodded.eeeee": "dark_ore",
       "block.minecraftmodded.brightore": "Brightore",
-      "block.minecraftmodded.einsteinium_block": "Block of Einsteinium",
       "item.minecraftmodded.thebright_23_spawn_egg": "The bright Spawn Egg",
       "item.minecraftmodded.brightcross": "Dark Eye",
       "item.minecraftmodded.brighthoe": "Brighthoe",
       "biome.minecraftmodded.thedown": "The down",
       "item.minecraftmodded.brightpick": "Bright pickaxe",
       "advancements.whatawaste.descr": "you have crafted a bright hoe",
-      "item.minecraftmodded.einsteinium_armor_leggings": "Einsteinium Leggings",
       "entity.minecraftmodded.thebright_23": "The bright",
       "block.minecraftmodded.pureobsidian": "Pureobsidian",
       "block.minecraftmodded.brightinfusedobsidian": "Brightinfusedobsidian",
       "block.minecraftmodded.summoner": "Summoner",
-      "item.minecraftmodded.einsteinium_sword": "Einsteinium Sword",
-      "item.minecraftmodded.einsteinium_shovel": "Einsteinium Shovel",
       "item.minecraftmodded.bright": "Bright",
       "advancements.whatawaste.title": "What a waste",
-      "block.minecraftmodded.einsteinium_ore": "Einsteinium Ore",
       "item.minecraftmodded.brightshovel": "Brightshovel",
-      "item.minecraftmodded.einsteinium_hoe": "Einsteinium Hoe",
-      "item.minecraftmodded.einsteinium_armor_boots": "Einsteinium Boots",
-      "item.minecraftmodded.einsteinium_armor_helmet": "Einsteinium Helmet",
       "itemGroup.tablucascrap": "Luca\u0027s crap",
       "item.minecraftmodded.brightsword": "Brightsword",
-      "item.minecraftmodded.einsteinium_armor_chestplate": "Einsteinium Chestplate",
       "item.minecraftmodded.thebright": "The bright Portal Igniter",
-      "item.minecraftmodded.einsteinium_axe": "Einsteinium Axe",
-      "item.minecraftmodded.einsteinium": "Einsteinium",
       "block.minecraftmodded.brightblock": "Brightblock"
     }
   },
