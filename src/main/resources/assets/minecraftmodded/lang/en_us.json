@@ -1,6 +1,8 @@
 {
+  "advancements.whatawaste.title": "What a waste",
   "item.minecraftmodded.brightsludge": "Dark sludge",
   "item.minecraftmodded.brightaxe": "Bright axe",
+  "item.minecraftmodded.brightshovel": "Brightshovel",
   "block.minecraftmodded.eeeee": "dark_ore",
   "block.minecraftmodded.brightore": "Brightore",
   "item.minecraftmodded.thebright_23_spawn_egg": "The bright Spawn Egg",
@@ -9,15 +11,13 @@
   "biome.minecraftmodded.thedown": "The down",
   "item.minecraftmodded.brightpick": "Bright pickaxe",
   "advancements.whatawaste.descr": "you have crafted a bright hoe",
+  "itemGroup.tablucascrap": "Luca\u0027s crap",
   "entity.minecraftmodded.thebright_23": "The bright",
   "block.minecraftmodded.pureobsidian": "Pureobsidian",
+  "item.minecraftmodded.brightsword": "Brightsword",
+  "item.minecraftmodded.thebright": "The bright Portal Igniter",
   "block.minecraftmodded.brightinfusedobsidian": "Brightinfusedobsidian",
   "block.minecraftmodded.summoner": "Summoner",
   "item.minecraftmodded.bright": "Bright",
-  "advancements.whatawaste.title": "What a waste",
-  "item.minecraftmodded.brightshovel": "Brightshovel",
-  "itemGroup.tablucascrap": "Luca\u0027s crap",
-  "item.minecraftmodded.brightsword": "Brightsword",
-  "item.minecraftmodded.thebright": "The bright Portal Igniter",
   "block.minecraftmodded.brightblock": "Brightblock"
 }
