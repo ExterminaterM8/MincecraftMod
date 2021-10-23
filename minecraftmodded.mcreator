@@ -263,6 +263,10 @@
       {
         "name": "MOBs",
         "children": []
+      },
+      {
+        "name": "minecraftmod",
+        "children": []
       }
     ]
   },
