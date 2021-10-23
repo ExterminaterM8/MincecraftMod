@@ -208,7 +208,7 @@
       "name": "Thebright",
       "type": "dimension",
       "sortid": 37,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "ids": {},
       "registry_name": "thebright",
@@ -251,7 +251,7 @@
       "name": "Thedown",
       "type": "biome",
       "sortid": 45,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "ids": {},
       "registry_name": "thedown",
@@ -328,42 +328,13 @@
       "path": "~/lucas_stuff"
     },
     {
-      "name": "Wicked",
-      "type": "procedure",
-      "sortid": 23,
+      "name": "Igniter2",
+      "type": "item",
+      "sortid": 53,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "wicked",
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      }
-    },
-    {
-      "name": "Cyhgki",
-      "type": "fuel",
-      "sortid": 22,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "cyhgki"
+      "registry_name": "igniter_2"
     }
   ],
   "variable_elements": [],
@@ -389,6 +360,7 @@
       "item.minecraftmodded.thebright": "The bright Portal Igniter",
       "block.minecraftmodded.brightinfusedobsidian": "Brightinfusedobsidian",
       "block.minecraftmodded.summoner": "Summoner",
+      "item.minecraftmodded.igniter_2": "Igniter 2",
       "item.minecraftmodded.bright": "Bright",
       "block.minecraftmodded.brightblock": "Brightblock"
     }

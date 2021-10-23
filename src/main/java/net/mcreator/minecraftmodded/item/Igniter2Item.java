@@ -12,11 +12,11 @@ import net.mcreator.minecraftmodded.itemgroup.LucascrapItemGroup;
 import net.mcreator.minecraftmodded.MinecraftmoddedModElements;
 
 @MinecraftmoddedModElements.ModElement.Tag
-public class BrightItem extends MinecraftmoddedModElements.ModElement {
-	@ObjectHolder("minecraftmodded:bright")
+public class Igniter2Item extends MinecraftmoddedModElements.ModElement {
+	@ObjectHolder("minecraftmodded:igniter_2")
 	public static final Item block = null;
-	public BrightItem(MinecraftmoddedModElements instance) {
-		super(instance, 26);
+	public Igniter2Item(MinecraftmoddedModElements instance) {
+		super(instance, 53);
 	}
 
 	@Override
@@ -25,8 +25,8 @@ public class BrightItem extends MinecraftmoddedModElements.ModElement {
 	}
 	public static class ItemCustom extends Item {
 		public ItemCustom() {
-			super(new Item.Properties().group(LucascrapItemGroup.tab).maxStackSize(64).rarity(Rarity.RARE));
-			setRegistryName("bright");
+			super(new Item.Properties().group(LucascrapItemGroup.tab).maxStackSize(64).rarity(Rarity.COMMON));
+			setRegistryName("igniter_2");
 		}
 
 		@Override

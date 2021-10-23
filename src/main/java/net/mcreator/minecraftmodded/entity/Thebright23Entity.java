@@ -1,38 +1,66 @@
 
 package net.mcreator.minecraftmodded.entity;
 
-import net.minecraft.block.material.Material;
+import net.minecraftforge.registries.ForgeRegistries;
+import net.minecraftforge.fml.network.NetworkHooks;
+import net.minecraftforge.fml.network.FMLPlayMessages;
+import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
+import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
+import net.minecraftforge.eventbus.api.SubscribeEvent;
+import net.minecraftforge.event.entity.EntityAttributeCreationEvent;
+
+import net.minecraft.world.World;
+import net.minecraft.util.math.vector.Vector3d;
+import net.minecraft.util.math.BlockPos;
+import net.minecraft.util.ResourceLocation;
+import net.minecraft.util.DamageSource;
+import net.minecraft.pathfinding.FlyingPathNavigator;
+import net.minecraft.network.IPacket;
+import net.minecraft.item.SpawnEggItem;
+import net.minecraft.item.ItemGroup;
+import net.minecraft.item.Item;
+import net.minecraft.entity.monster.MonsterEntity;
+import net.minecraft.entity.ai.goal.SwimGoal;
+import net.minecraft.entity.ai.goal.RandomWalkingGoal;
+import net.minecraft.entity.ai.goal.MeleeAttackGoal;
+import net.minecraft.entity.ai.goal.LookRandomlyGoal;
+import net.minecraft.entity.ai.goal.HurtByTargetGoal;
+import net.minecraft.entity.ai.controller.FlyingMovementController;
+import net.minecraft.entity.ai.attributes.Attributes;
+import net.minecraft.entity.ai.attributes.AttributeModifierMap;
+import net.minecraft.entity.MobEntity;
+import net.minecraft.entity.EntityType;
+import net.minecraft.entity.EntityClassification;
+import net.minecraft.entity.CreatureAttribute;
+import net.minecraft.block.BlockState;
+
+import net.mcreator.minecraftmodded.entity.renderer.Thebright23Renderer;
+import net.mcreator.minecraftmodded.MinecraftmoddedModElements;
+
+import java.util.Random;
 
 @MinecraftmoddedModElements.ModElement.Tag
 public class Thebright23Entity extends MinecraftmoddedModElements.ModElement {
-
 	public static EntityType entity = (EntityType.Builder.<CustomEntity>create(CustomEntity::new, EntityClassification.MONSTER)
 			.setShouldReceiveVelocityUpdates(true).setTrackingRange(69).setUpdateInterval(3).setCustomClientFactory(CustomEntity::new).immuneToFire()
 			.size(1f, 1f)).build("thebright_23").setRegistryName("thebright_23");
-
 	public Thebright23Entity(MinecraftmoddedModElements instance) {
 		super(instance, 40);
-
 		FMLJavaModLoadingContext.get().getModEventBus().register(new Thebright23Renderer.ModelRegisterHandler());
 		FMLJavaModLoadingContext.get().getModEventBus().register(new EntityAttributesRegisterHandler());
-
 	}
 
 	@Override
 	public void initElements() {
 		elements.entities.add(() -> entity);
-
 		elements.items.add(
 				() -> new SpawnEggItem(entity, -1, -6842473, new Item.Properties().group(ItemGroup.MISC)).setRegistryName("thebright_23_spawn_egg"));
 	}
 
 	@Override
 	public void init(FMLCommonSetupEvent event) {
-
 	}
-
 	private static class EntityAttributesRegisterHandler {
-
 		@SubscribeEvent
 		public void onEntityAttributeCreation(EntityAttributeCreationEvent event) {
 			AttributeModifierMap.MutableAttribute ammma = MobEntity.func_233666_p_();
@@ -40,20 +68,14 @@ public class Thebright23Entity extends MinecraftmoddedModElements.ModElement {
 			ammma = ammma.createMutableAttribute(Attributes.MAX_HEALTH, 448);
 			ammma = ammma.createMutableAttribute(Attributes.ARMOR, 10);
 			ammma = ammma.createMutableAttribute(Attributes.ATTACK_DAMAGE, 15);
-
 			ammma = ammma.createMutableAttribute(Attributes.KNOCKBACK_RESISTANCE, 8.2);
-
 			ammma = ammma.createMutableAttribute(Attributes.ATTACK_KNOCKBACK, 4);
-
 			ammma = ammma.createMutableAttribute(Attributes.FLYING_SPEED, 1.5);
-
 			event.put(entity, ammma.create());
 		}
-
 	}
 
 	public static class CustomEntity extends MonsterEntity {
-
 		public CustomEntity(FMLPlayMessages.SpawnEntity packet, World world) {
 			this(entity, world);
 		}
@@ -62,7 +84,6 @@ public class Thebright23Entity extends MinecraftmoddedModElements.ModElement {
 			super(type, world);
 			experienceValue = 999;
 			setNoAI(false);
-
 			this.moveController = new FlyingMovementController(this, 10, true);
 			this.navigator = new FlyingPathNavigator(this, this.world);
 		}
@@ -75,9 +96,7 @@ public class Thebright23Entity extends MinecraftmoddedModElements.ModElement {
 		@Override
 		protected void registerGoals() {
 			super.registerGoals();
-
 			this.goalSelector.addGoal(1, new RandomWalkingGoal(this, 0.8, 20) {
-
 				@Override
 				protected Vector3d getPosition() {
 					Random random = CustomEntity.this.getRNG();
@@ -86,14 +105,12 @@ public class Thebright23Entity extends MinecraftmoddedModElements.ModElement {
 					double dir_z = CustomEntity.this.getPosZ() + ((random.nextFloat() * 2 - 1) * 16);
 					return new Vector3d(dir_x, dir_y, dir_z);
 				}
-
 			});
 			this.goalSelector.addGoal(2, new RandomWalkingGoal(this, 0.8));
 			this.goalSelector.addGoal(3, new MeleeAttackGoal(this, 1.2, false));
 			this.targetSelector.addGoal(4, new HurtByTargetGoal(this));
 			this.goalSelector.addGoal(5, new LookRandomlyGoal(this));
 			this.goalSelector.addGoal(6, new SwimGoal(this));
-
 		}
 
 		@Override
@@ -113,7 +130,6 @@ public class Thebright23Entity extends MinecraftmoddedModElements.ModElement {
 
 		@Override
 		public boolean onLivingFall(float l, float d) {
-
 			return false;
 		}
 
@@ -143,11 +159,7 @@ public class Thebright23Entity extends MinecraftmoddedModElements.ModElement {
 
 		public void livingTick() {
 			super.livingTick();
-
 			this.setNoGravity(true);
-
 		}
-
 	}
-
 }
