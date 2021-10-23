@@ -233,6 +233,26 @@
           }
         ]
       }
+    },
+    {
+      "name": "Brightblock",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brightblock",
+      "path": "~/lucas_stuff"
+    },
+    {
+      "name": "Brightore",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brightore",
+      "path": "~/lucas_stuff"
     }
   ],
   "variable_elements": [],
@@ -243,6 +263,7 @@
       "item.minecraftmodded.einsteinium_pickaxe": "Einsteinium Pickaxe",
       "item.minecraftmodded.einsteinium_hoe": "Einsteinium Hoe",
       "item.minecraftmodded.einsteinium_armor_boots": "Einsteinium Boots",
+      "block.minecraftmodded.brightore": "Brightore",
       "block.minecraftmodded.einsteinium_block": "Block of Einsteinium",
       "item.minecraftmodded.einsteinium_armor_helmet": "Einsteinium Helmet",
       "item.minecraftmodded.einsteinium_armor_leggings": "Einsteinium Leggings",
@@ -250,7 +271,8 @@
       "item.minecraftmodded.einsteinium_axe": "Einsteinium Axe",
       "item.minecraftmodded.einsteinium": "Einsteinium",
       "item.minecraftmodded.einsteinium_sword": "Einsteinium Sword",
-      "item.minecraftmodded.einsteinium_shovel": "Einsteinium Shovel"
+      "item.minecraftmodded.einsteinium_shovel": "Einsteinium Shovel",
+      "block.minecraftmodded.brightblock": "Brightblock"
     }
   },
   "foldersRoot": {
@@ -266,6 +288,10 @@
       },
       {
         "name": "minecraftmod",
+        "children": []
+      },
+      {
+        "name": "lucas_stuff",
         "children": []
       }
     ]

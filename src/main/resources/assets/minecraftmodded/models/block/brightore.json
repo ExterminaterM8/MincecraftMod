@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "minecraftmodded:blocks/ore",
+    "up": "minecraftmodded:blocks/ore",
+    "north": "minecraftmodded:blocks/ore",
+    "east": "minecraftmodded:blocks/ore",
+    "south": "minecraftmodded:blocks/ore",
+    "west": "minecraftmodded:blocks/ore",
+    "particle": "minecraftmodded:blocks/ore"
+  }
+}
