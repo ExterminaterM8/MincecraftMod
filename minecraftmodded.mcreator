@@ -195,6 +195,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "einsteinium_armor_boots_recipe"
+    },
+    {
+      "name": "Cyhgki",
+      "type": "fuel",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyhgki"
     }
   ],
   "variable_elements": [],
