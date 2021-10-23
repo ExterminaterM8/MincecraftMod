@@ -226,7 +226,12 @@
   },
   "foldersRoot": {
     "name": "~",
-    "children": []
+    "children": [
+      {
+        "name": "Poggers",
+        "children": []
+      }
+    ]
   },
   "workspaceSettings": {
     "modid": "minecraftmodded",
