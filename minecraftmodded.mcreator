@@ -255,7 +255,12 @@
   },
   "foldersRoot": {
     "name": "~",
-    "children": []
+    "children": [
+      {
+        "name": "MOBs",
+        "children": []
+      }
+    ]
   },
   "workspaceSettings": {
     "modid": "minecraftmodded",
