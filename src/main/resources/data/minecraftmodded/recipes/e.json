@@ -1,0 +1,42 @@
+{
+  "group": "minecraftmodded",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraftmodded:bright"
+    },
+    "1": {
+      "item": "minecraftmodded:bright"
+    },
+    "2": {
+      "item": "minecraftmodded:bright"
+    },
+    "3": {
+      "item": "minecraftmodded:bright"
+    },
+    "4": {
+      "item": "minecraftmodded:bright"
+    },
+    "5": {
+      "item": "minecraftmodded:bright"
+    },
+    "6": {
+      "item": "minecraftmodded:bright"
+    },
+    "7": {
+      "item": "minecraftmodded:bright"
+    },
+    "8": {
+      "item": "minecraftmodded:bright"
+    }
+  },
+  "result": {
+    "item": "minecraftmodded:brightblock",
+    "count": 1
+  }
+}

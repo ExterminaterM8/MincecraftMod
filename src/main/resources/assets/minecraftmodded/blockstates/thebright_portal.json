@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "minecraftmodded:block/thebright_portal_ew"
+    },
+    "axis=x": {
+      "model": "minecraftmodded:block/thebright_portal_ns"
+    }
+  }
+}

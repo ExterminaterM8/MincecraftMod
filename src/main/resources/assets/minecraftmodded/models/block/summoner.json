@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "minecraftmodded:blocks/brightblock",
+    "up": "minecraftmodded:blocks/brightact",
+    "north": "minecraftmodded:blocks/brightblock",
+    "east": "minecraftmodded:blocks/brightblock",
+    "south": "minecraftmodded:blocks/brightblock",
+    "west": "minecraftmodded:blocks/brightblock",
+    "particle": "minecraftmodded:blocks/brightblock"
+  }
+}

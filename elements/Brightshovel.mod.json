@@ -1,0 +1,31 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "bright3",
+    "customModelName": "Normal",
+    "name": "Brightshovel",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Lucascrap"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 0,
+    "efficiency": 20.0,
+    "attackSpeed": 1.0,
+    "enchantability": 25,
+    "damageVsEntity": 4.0,
+    "usageCount": 10000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Brightcross"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

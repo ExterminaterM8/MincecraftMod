@@ -1,0 +1,31 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "bright",
+    "customModelName": "Normal",
+    "name": "Brightsword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Lucascrap"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 3.6999999999999997,
+    "enchantability": 2,
+    "damageVsEntity": 15.0,
+    "usageCount": 10000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Brightcross"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

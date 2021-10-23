@@ -21,11 +21,11 @@ import java.util.List;
 import java.util.Collections;
 
 @MinecraftmoddedModElements.ModElement.Tag
-public class BrightblockBlock extends MinecraftmoddedModElements.ModElement {
-	@ObjectHolder("minecraftmodded:brightblock")
+public class PureobsidianBlock extends MinecraftmoddedModElements.ModElement {
+	@ObjectHolder("minecraftmodded:pureobsidian")
 	public static final Block block = null;
-	public BrightblockBlock(MinecraftmoddedModElements instance) {
-		super(instance, 24);
+	public PureobsidianBlock(MinecraftmoddedModElements instance) {
+		super(instance, 41);
 	}
 
 	@Override
@@ -35,8 +35,8 @@ public class BrightblockBlock extends MinecraftmoddedModElements.ModElement {
 	}
 	public static class CustomBlock extends Block {
 		public CustomBlock() {
-			super(Block.Properties.create(Material.IRON).sound(SoundType.METAL).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0));
-			setRegistryName("brightblock");
+			super(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0));
+			setRegistryName("pureobsidian");
 		}
 
 		@Override
