@@ -1,0 +1,36 @@
+{
+  "group": "minecraftmodded",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraftmodded:einsteinium"
+    },
+    "1": {
+      "item": "minecraftmodded:einsteinium"
+    },
+    "2": {
+      "item": "minecraftmodded:einsteinium"
+    },
+    "3": {
+      "item": "minecraftmodded:einsteinium"
+    },
+    "5": {
+      "item": "minecraftmodded:einsteinium"
+    },
+    "6": {
+      "item": "minecraftmodded:einsteinium"
+    },
+    "8": {
+      "item": "minecraftmodded:einsteinium"
+    }
+  },
+  "result": {
+    "item": "minecraftmodded:einsteinium_armor_leggings",
+    "count": 1
+  }
+}

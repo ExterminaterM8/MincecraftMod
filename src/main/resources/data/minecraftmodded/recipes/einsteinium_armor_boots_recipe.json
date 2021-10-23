@@ -1,0 +1,26 @@
+{
+  "group": "minecraftmodded",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraftmodded:einsteinium"
+    },
+    "2": {
+      "item": "minecraftmodded:einsteinium"
+    },
+    "3": {
+      "item": "minecraftmodded:einsteinium"
+    },
+    "5": {
+      "item": "minecraftmodded:einsteinium"
+    }
+  },
+  "result": {
+    "item": "minecraftmodded:einsteinium_armor_boots",
+    "count": 1
+  }
+}

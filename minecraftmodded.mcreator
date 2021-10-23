@@ -1,0 +1,240 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Einsteinium",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "einsteinium"
+    },
+    {
+      "name": "EinsteiniumOre",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "einsteinium_ore"
+    },
+    {
+      "name": "EinsteiniumBlock",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "einsteinium_block"
+    },
+    {
+      "name": "EinsteiniumOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "einsteinium_ore_block_recipe"
+    },
+    {
+      "name": "EinsteiniumBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "einsteinium_block_ore_recipe"
+    },
+    {
+      "name": "EinsteiniumOreSmelting",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "einsteinium_ore_smelting"
+    },
+    {
+      "name": "EinsteiniumPickaxe",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "einsteinium_pickaxe"
+    },
+    {
+      "name": "EinsteiniumAxe",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "einsteinium_axe"
+    },
+    {
+      "name": "EinsteiniumSword",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "einsteinium_sword"
+    },
+    {
+      "name": "EinsteiniumShovel",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "einsteinium_shovel"
+    },
+    {
+      "name": "EinsteiniumHoe",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "einsteinium_hoe"
+    },
+    {
+      "name": "EinsteiniumPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "einsteinium_pickaxe_recipe"
+    },
+    {
+      "name": "EinsteiniumAxeRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "einsteinium_axe_recipe"
+    },
+    {
+      "name": "EinsteiniumSwordRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "einsteinium_sword_recipe"
+    },
+    {
+      "name": "EinsteiniumShovelRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "einsteinium_shovel_recipe"
+    },
+    {
+      "name": "EinsteiniumHoeRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "einsteinium_hoe_recipe"
+    },
+    {
+      "name": "EinsteiniumArmor",
+      "type": "armor",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "einsteinium_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "EinsteiniumArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "einsteinium_armor_helmet_recipe"
+    },
+    {
+      "name": "EinsteiniumArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "einsteinium_armor_body_recipe"
+    },
+    {
+      "name": "EinsteiniumArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "einsteinium_armor_leggings_recipe"
+    },
+    {
+      "name": "EinsteiniumArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "einsteinium_armor_boots_recipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.minecraftmodded.einsteinium_ore": "Einsteinium Ore",
+      "item.minecraftmodded.einsteinium_pickaxe": "Einsteinium Pickaxe",
+      "item.minecraftmodded.einsteinium_hoe": "Einsteinium Hoe",
+      "item.minecraftmodded.einsteinium_armor_boots": "Einsteinium Boots",
+      "block.minecraftmodded.einsteinium_block": "Block of Einsteinium",
+      "item.minecraftmodded.einsteinium_armor_helmet": "Einsteinium Helmet",
+      "item.minecraftmodded.einsteinium_armor_leggings": "Einsteinium Leggings",
+      "item.minecraftmodded.einsteinium_armor_chestplate": "Einsteinium Chestplate",
+      "item.minecraftmodded.einsteinium_axe": "Einsteinium Axe",
+      "item.minecraftmodded.einsteinium": "Einsteinium",
+      "item.minecraftmodded.einsteinium_sword": "Einsteinium Sword",
+      "item.minecraftmodded.einsteinium_shovel": "Einsteinium Shovel"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "minecraftmodded",
+    "modName": "MinecraftModded",
+    "version": "1.0.0",
+    "author": "Aiden, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.minecraftmodded",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100236710
+}

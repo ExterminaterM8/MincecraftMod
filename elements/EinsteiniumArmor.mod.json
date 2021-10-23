@@ -1,0 +1,62 @@
+{
+  "_fv": 24,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "einsteinium_head",
+    "enableBody": true,
+    "textureBody": "einsteinium_body",
+    "enableLeggings": true,
+    "textureLeggings": "einsteinium_leggings",
+    "enableBoots": true,
+    "textureBoots": "einsteinium_boots",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "einsteinium",
+    "helmetName": "Einsteinium Helmet",
+    "bodyName": "Einsteinium Chestplate",
+    "leggingsName": "Einsteinium Leggings",
+    "bootsName": "Einsteinium Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "maxDamage": 30,
+    "damageValueHelmet": 4,
+    "damageValueBody": 10,
+    "damageValueLeggings": 12,
+    "damageValueBoots": 4,
+    "enchantability": 18,
+    "toughness": 0.0,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Einsteinium"
+      }
+    ]
+  }
+}

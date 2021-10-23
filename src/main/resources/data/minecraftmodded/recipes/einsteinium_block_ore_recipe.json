@@ -1,0 +1,13 @@
+{
+  "group": "minecraftmodded",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraftmodded:einsteinium_block"
+    }
+  ],
+  "result": {
+    "item": "minecraftmodded:einsteinium",
+    "count": 9
+  }
+}

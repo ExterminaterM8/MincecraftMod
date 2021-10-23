@@ -1,0 +1,30 @@
+{
+  "group": "minecraftmodded",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraftmodded:einsteinium"
+    },
+    "1": {
+      "item": "minecraftmodded:einsteinium"
+    },
+    "2": {
+      "item": "minecraftmodded:einsteinium"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "minecraftmodded:einsteinium_pickaxe",
+    "count": 1
+  }
+}
