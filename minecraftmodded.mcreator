@@ -8,7 +8,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "einsteinium"
+      "registry_name": "einsteinium",
+      "path": "~/Items"
     },
     {
       "name": "EinsteiniumOre",
@@ -17,7 +18,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "einsteinium_ore"
+      "registry_name": "einsteinium_ore",
+      "path": "~/Blocks"
     },
     {
       "name": "EinsteiniumBlock",
@@ -26,7 +28,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "einsteinium_block"
+      "registry_name": "einsteinium_block",
+      "path": "~/Blocks"
     },
     {
       "name": "EinsteiniumOreBlockRecipe",
@@ -35,7 +38,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "einsteinium_ore_block_recipe"
+      "registry_name": "einsteinium_ore_block_recipe",
+      "path": "~/Recipes"
     },
     {
       "name": "EinsteiniumBlockOreRecipe",
@@ -44,7 +48,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "einsteinium_block_ore_recipe"
+      "registry_name": "einsteinium_block_ore_recipe",
+      "path": "~/Recipes"
     },
     {
       "name": "EinsteiniumOreSmelting",
@@ -53,7 +58,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "einsteinium_ore_smelting"
+      "registry_name": "einsteinium_ore_smelting",
+      "path": "~/Recipes"
     },
     {
       "name": "EinsteiniumPickaxe",
@@ -62,7 +68,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "einsteinium_pickaxe"
+      "registry_name": "einsteinium_pickaxe",
+      "path": "~/Tools"
     },
     {
       "name": "EinsteiniumAxe",
@@ -71,7 +78,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "einsteinium_axe"
+      "registry_name": "einsteinium_axe",
+      "path": "~/Tools"
     },
     {
       "name": "EinsteiniumSword",
@@ -80,7 +88,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "einsteinium_sword"
+      "registry_name": "einsteinium_sword",
+      "path": "~/Tools"
     },
     {
       "name": "EinsteiniumShovel",
@@ -89,7 +98,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "einsteinium_shovel"
+      "registry_name": "einsteinium_shovel",
+      "path": "~/Tools"
     },
     {
       "name": "EinsteiniumHoe",
@@ -98,7 +108,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "einsteinium_hoe"
+      "registry_name": "einsteinium_hoe",
+      "path": "~/Tools"
     },
     {
       "name": "EinsteiniumPickaxeRecipe",
@@ -107,7 +118,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "einsteinium_pickaxe_recipe"
+      "registry_name": "einsteinium_pickaxe_recipe",
+      "path": "~/Recipes"
     },
     {
       "name": "EinsteiniumAxeRecipe",
@@ -116,7 +128,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "einsteinium_axe_recipe"
+      "registry_name": "einsteinium_axe_recipe",
+      "path": "~/Recipes"
     },
     {
       "name": "EinsteiniumSwordRecipe",
@@ -125,7 +138,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "einsteinium_sword_recipe"
+      "registry_name": "einsteinium_sword_recipe",
+      "path": "~/Recipes"
     },
     {
       "name": "EinsteiniumShovelRecipe",
@@ -134,7 +148,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "einsteinium_shovel_recipe"
+      "registry_name": "einsteinium_shovel_recipe",
+      "path": "~/Recipes"
     },
     {
       "name": "EinsteiniumHoeRecipe",
@@ -143,7 +158,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "einsteinium_hoe_recipe"
+      "registry_name": "einsteinium_hoe_recipe",
+      "path": "~/Recipes"
     },
     {
       "name": "EinsteiniumArmor",
@@ -158,7 +174,8 @@
         "el": true,
         "eb": true,
         "ec": true
-      }
+      },
+      "path": "~/Armour"
     },
     {
       "name": "EinsteiniumArmorHelmetRecipe",
@@ -167,7 +184,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "einsteinium_armor_helmet_recipe"
+      "registry_name": "einsteinium_armor_helmet_recipe",
+      "path": "~/Recipes"
     },
     {
       "name": "EinsteiniumArmorBodyRecipe",
@@ -176,7 +194,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "einsteinium_armor_body_recipe"
+      "registry_name": "einsteinium_armor_body_recipe",
+      "path": "~/Recipes"
     },
     {
       "name": "EinsteiniumArmorLeggingsRecipe",
@@ -185,7 +204,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "einsteinium_armor_leggings_recipe"
+      "registry_name": "einsteinium_armor_leggings_recipe",
+      "path": "~/Recipes"
     },
     {
       "name": "EinsteiniumArmorBootsRecipe",
@@ -194,45 +214,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "einsteinium_armor_boots_recipe"
-    },
-    {
-      "name": "Cyhgki",
-      "type": "fuel",
-      "sortid": 22,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "cyhgki"
-    },
-    {
-      "name": "Wicked",
-      "type": "procedure",
-      "sortid": 23,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "wicked",
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      }
+      "registry_name": "einsteinium_armor_boots_recipe",
+      "path": "~/Recipes"
     }
   ],
   "variable_elements": [],
@@ -257,7 +240,27 @@
     "name": "~",
     "children": [
       {
-        "name": "MOBs",
+        "name": "Mobs",
+        "children": []
+      },
+      {
+        "name": "Recipes",
+        "children": []
+      },
+      {
+        "name": "Blocks",
+        "children": []
+      },
+      {
+        "name": "Tools",
+        "children": []
+      },
+      {
+        "name": "Items",
+        "children": []
+      },
+      {
+        "name": "Armour",
         "children": []
       }
     ]
