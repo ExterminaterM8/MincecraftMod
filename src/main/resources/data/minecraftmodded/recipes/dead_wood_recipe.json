@@ -1,0 +1,26 @@
+{
+  "group": "minecraftmodded",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraftmodded:dead_log"
+    },
+    "1": {
+      "item": "minecraftmodded:dead_log"
+    },
+    "2": {
+      "item": "minecraftmodded:dead_log"
+    },
+    "3": {
+      "item": "minecraftmodded:dead_log"
+    }
+  },
+  "result": {
+    "item": "minecraftmodded:dead_wood",
+    "count": 3
+  }
+}

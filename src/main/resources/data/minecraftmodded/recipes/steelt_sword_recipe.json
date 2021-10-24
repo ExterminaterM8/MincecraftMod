@@ -1,0 +1,24 @@
+{
+  "group": "minecraftmodded",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraftmodded:steelingot"
+    },
+    "1": {
+      "item": "minecraftmodded:steelingot"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "minecraftmodded:steelt_sword",
+    "count": 1
+  }
+}

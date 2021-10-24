@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "minecraftmodded:block/dead_slab"
+    },
+    "type=top": {
+      "model": "minecraftmodded:block/dead_slab_top"
+    },
+    "type=double": {
+      "model": "minecraftmodded:block/dead_slab_full"
+    }
+  }
+}

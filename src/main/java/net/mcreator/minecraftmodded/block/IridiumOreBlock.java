@@ -35,7 +35,7 @@ import net.minecraft.block.Blocks;
 import net.minecraft.block.BlockState;
 import net.minecraft.block.Block;
 
-import net.mcreator.minecraftmodded.itemgroup.LucascrapItemGroup;
+import net.mcreator.minecraftmodded.itemgroup.AidensStuffItemGroup;
 import net.mcreator.minecraftmodded.item.IridiumIngotItem;
 import net.mcreator.minecraftmodded.MinecraftmoddedModElements;
 
@@ -56,7 +56,8 @@ public class IridiumOreBlock extends MinecraftmoddedModElements.ModElement {
 	@Override
 	public void initElements() {
 		elements.blocks.add(() -> new CustomBlock());
-		elements.items.add(() -> new BlockItem(block, new Item.Properties().group(LucascrapItemGroup.tab)).setRegistryName(block.getRegistryName()));
+		elements.items
+				.add(() -> new BlockItem(block, new Item.Properties().group(AidensStuffItemGroup.tab)).setRegistryName(block.getRegistryName()));
 	}
 	public static class CustomBlock extends Block {
 		public CustomBlock() {

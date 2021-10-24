@@ -8,7 +8,7 @@ import net.minecraft.item.ItemStack;
 import net.minecraft.item.Item;
 import net.minecraft.block.BlockState;
 
-import net.mcreator.minecraftmodded.itemgroup.LucascrapItemGroup;
+import net.mcreator.minecraftmodded.itemgroup.AidensStuffItemGroup;
 import net.mcreator.minecraftmodded.MinecraftmoddedModElements;
 
 @MinecraftmoddedModElements.ModElement.Tag
@@ -25,7 +25,7 @@ public class Igniter2Item extends MinecraftmoddedModElements.ModElement {
 	}
 	public static class ItemCustom extends Item {
 		public ItemCustom() {
-			super(new Item.Properties().group(LucascrapItemGroup.tab).maxStackSize(64).rarity(Rarity.COMMON));
+			super(new Item.Properties().group(AidensStuffItemGroup.tab).maxStackSize(64).rarity(Rarity.COMMON));
 			setRegistryName("igniter_2");
 		}
 

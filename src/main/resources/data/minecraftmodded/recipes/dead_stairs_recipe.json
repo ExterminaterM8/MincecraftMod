@@ -1,0 +1,33 @@
+{
+  "group": "minecraftmodded",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraftmodded:dead_planks"
+    },
+    "3": {
+      "item": "minecraftmodded:dead_planks"
+    },
+    "4": {
+      "item": "minecraftmodded:dead_planks"
+    },
+    "6": {
+      "item": "minecraftmodded:dead_planks"
+    },
+    "7": {
+      "item": "minecraftmodded:dead_planks"
+    },
+    "8": {
+      "item": "minecraftmodded:dead_planks"
+    }
+  },
+  "result": {
+    "item": "minecraftmodded:dead_stairs",
+    "count": 4
+  }
+}

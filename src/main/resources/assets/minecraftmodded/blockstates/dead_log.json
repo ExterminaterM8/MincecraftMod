@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "minecraftmodded:block/dead_log",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "minecraftmodded:block/dead_log"
+    },
+    "axis=z": {
+      "model": "minecraftmodded:block/dead_log",
+      "x": 90
+    }
+  }
+}

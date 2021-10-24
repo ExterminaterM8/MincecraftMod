@@ -1,0 +1,13 @@
+{
+  "group": "minecraftmodded",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:dead_log"
+    }
+  ],
+  "result": {
+    "item": "minecraftmodded:dead_planks",
+    "count": 4
+  }
+}

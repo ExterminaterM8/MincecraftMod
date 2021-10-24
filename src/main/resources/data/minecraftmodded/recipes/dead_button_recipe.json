@@ -1,0 +1,13 @@
+{
+  "group": "minecraftmodded",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraftmodded:dead_planks"
+    }
+  ],
+  "result": {
+    "item": "minecraftmodded:dead_button",
+    "count": 1
+  }
+}

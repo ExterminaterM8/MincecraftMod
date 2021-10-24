@@ -15,7 +15,7 @@ import net.minecraft.block.SoundType;
 import net.minecraft.block.BlockState;
 import net.minecraft.block.Block;
 
-import net.mcreator.minecraftmodded.itemgroup.LucascrapItemGroup;
+import net.mcreator.minecraftmodded.itemgroup.AidensStuffItemGroup;
 import net.mcreator.minecraftmodded.MinecraftmoddedModElements;
 
 import java.util.List;
@@ -32,7 +32,8 @@ public class IridiumBlockBlock extends MinecraftmoddedModElements.ModElement {
 	@Override
 	public void initElements() {
 		elements.blocks.add(() -> new CustomBlock());
-		elements.items.add(() -> new BlockItem(block, new Item.Properties().group(LucascrapItemGroup.tab)).setRegistryName(block.getRegistryName()));
+		elements.items
+				.add(() -> new BlockItem(block, new Item.Properties().group(AidensStuffItemGroup.tab)).setRegistryName(block.getRegistryName()));
 	}
 	public static class CustomBlock extends Block {
 		public CustomBlock() {

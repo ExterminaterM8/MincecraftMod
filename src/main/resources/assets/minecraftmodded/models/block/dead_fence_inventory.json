@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "minecraftmodded:blocks/deadplank",
+    "particle": "minecraftmodded:blocks/deadplank"
+  }
+}

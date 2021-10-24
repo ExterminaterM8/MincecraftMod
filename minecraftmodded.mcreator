@@ -545,6 +545,402 @@
       "ids": {},
       "registry_name": "bulletgunrecipe",
       "path": "~/Aidens_Stuff/Recipes"
+    },
+    {
+      "name": "Steel2",
+      "type": "recipe",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_2",
+      "path": "~/Aidens_Stuff/Recipes"
+    },
+    {
+      "name": "SteelIArmor",
+      "type": "armor",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_i_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Aidens_Stuff/Armour"
+    },
+    {
+      "name": "SteelIArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_i_armor_helmet_recipe",
+      "path": "~/Aidens_Stuff/Armour"
+    },
+    {
+      "name": "SteelIArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_i_armor_body_recipe",
+      "path": "~/Aidens_Stuff/Armour"
+    },
+    {
+      "name": "SteelIArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_i_armor_leggings_recipe",
+      "path": "~/Aidens_Stuff/Armour"
+    },
+    {
+      "name": "SteelIArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_i_armor_boots_recipe",
+      "path": "~/Aidens_Stuff/Armour"
+    },
+    {
+      "name": "SteeltPickaxe",
+      "type": "tool",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steelt_pickaxe",
+      "path": "~/Aidens_Stuff/Tools"
+    },
+    {
+      "name": "SteeltAxe",
+      "type": "tool",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steelt_axe",
+      "path": "~/Aidens_Stuff/Tools"
+    },
+    {
+      "name": "SteeltSword",
+      "type": "tool",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steelt_sword",
+      "path": "~/Aidens_Stuff/Tools"
+    },
+    {
+      "name": "SteeltShovel",
+      "type": "tool",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steelt_shovel",
+      "path": "~/Aidens_Stuff/Tools"
+    },
+    {
+      "name": "SteeltHoe",
+      "type": "tool",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steelt_hoe",
+      "path": "~/Aidens_Stuff/Tools"
+    },
+    {
+      "name": "SteeltPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steelt_pickaxe_recipe",
+      "path": "~/Aidens_Stuff/Tools"
+    },
+    {
+      "name": "SteeltAxeRecipe",
+      "type": "recipe",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steelt_axe_recipe",
+      "path": "~/Aidens_Stuff/Tools"
+    },
+    {
+      "name": "SteeltSwordRecipe",
+      "type": "recipe",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steelt_sword_recipe",
+      "path": "~/Aidens_Stuff/Tools"
+    },
+    {
+      "name": "SteeltShovelRecipe",
+      "type": "recipe",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steelt_shovel_recipe",
+      "path": "~/Aidens_Stuff/Tools"
+    },
+    {
+      "name": "SteeltHoeRecipe",
+      "type": "recipe",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steelt_hoe_recipe",
+      "path": "~/Aidens_Stuff/Tools"
+    },
+    {
+      "name": "DeadWood",
+      "type": "block",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dead_wood",
+      "path": "~/Aidens_Stuff"
+    },
+    {
+      "name": "DeadLog",
+      "type": "block",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dead_log",
+      "path": "~/Aidens_Stuff"
+    },
+    {
+      "name": "DeadPlanks",
+      "type": "block",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dead_planks",
+      "path": "~/Aidens_Stuff"
+    },
+    {
+      "name": "DeadLeaves",
+      "type": "block",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dead_leaves",
+      "path": "~/Aidens_Stuff"
+    },
+    {
+      "name": "DeadStairs",
+      "type": "block",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dead_stairs",
+      "path": "~/Aidens_Stuff"
+    },
+    {
+      "name": "DeadSlab",
+      "type": "block",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dead_slab",
+      "path": "~/Aidens_Stuff"
+    },
+    {
+      "name": "DeadFence",
+      "type": "block",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dead_fence",
+      "path": "~/Aidens_Stuff"
+    },
+    {
+      "name": "DeadFenceGate",
+      "type": "block",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dead_fence_gate",
+      "path": "~/Aidens_Stuff"
+    },
+    {
+      "name": "DeadPressurePlate",
+      "type": "block",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dead_pressure_plate",
+      "path": "~/Aidens_Stuff"
+    },
+    {
+      "name": "DeadButton",
+      "type": "block",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dead_button",
+      "path": "~/Aidens_Stuff"
+    },
+    {
+      "name": "DeadItemsTag",
+      "type": "tag",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dead_items_tag",
+      "path": "~/Aidens_Stuff"
+    },
+    {
+      "name": "DeadWoodRecipe",
+      "type": "recipe",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dead_wood_recipe",
+      "path": "~/Aidens_Stuff"
+    },
+    {
+      "name": "DeadPlanksRecipe",
+      "type": "recipe",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dead_planks_recipe",
+      "path": "~/Aidens_Stuff"
+    },
+    {
+      "name": "DeadStairsRecipe",
+      "type": "recipe",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dead_stairs_recipe",
+      "path": "~/Aidens_Stuff"
+    },
+    {
+      "name": "DeadSlabRecipe",
+      "type": "recipe",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dead_slab_recipe",
+      "path": "~/Aidens_Stuff"
+    },
+    {
+      "name": "DeadFenceRecipe",
+      "type": "recipe",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dead_fence_recipe",
+      "path": "~/Aidens_Stuff"
+    },
+    {
+      "name": "DeadFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dead_fence_gate_recipe",
+      "path": "~/Aidens_Stuff"
+    },
+    {
+      "name": "DeadPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dead_pressure_plate_recipe",
+      "path": "~/Aidens_Stuff"
+    },
+    {
+      "name": "DeadButtonRecipe",
+      "type": "recipe",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dead_button_recipe",
+      "path": "~/Aidens_Stuff"
+    },
+    {
+      "name": "DeadStickRecipe",
+      "type": "recipe",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dead_stick_recipe",
+      "path": "~/Aidens_Stuff"
+    },
+    {
+      "name": "Deadsapling",
+      "type": "block",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "deadsapling",
+      "path": "~/Aidens_Stuff"
+    },
+    {
+      "name": "Deadtree",
+      "type": "structure",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "deadtree",
+      "path": "~/Aidens_Stuff"
+    },
+    {
+      "name": "Spear",
+      "type": "rangeditem",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spear",
+      "path": "~/Aidens_Stuff/Weapons"
     }
   ],
   "variable_elements": [],
@@ -560,37 +956,58 @@
   ],
   "language_map": {
     "en_us": {
-      "item.minecraftmodded.brightsludge": "Dark sludge",
+      "item.minecraftmodded.steel_i_armor_leggings": "Steel Leggings",
       "item.minecraftmodded.brightaxe": "Bright axe",
+      "block.minecraftmodded.brightore": "Prosperity Ore",
+      "block.minecraftmodded.dead_leaves": "Dead Leaves",
+      "item.minecraftmodded.steel_i_armor_chestplate": "Steel Chestplate",
+      "item.minecraftmodded.brightcross": "Dark Prosperity Gem",
+      "entity.minecraftmodded.thebright_23": "The bright",
+      "block.minecraftmodded.pureobsidian": "Pure Obsidian",
+      "block.minecraftmodded.dead_stairs": "Dead Stairs",
+      "block.minecraftmodded.dead_planks": "Dead Planks",
+      "item.minecraftmodded.bright": "Prosperity Gem",
+      "item.minecraftmodded.steelt_pickaxe": "Steel Pickaxe",
+      "itemGroup.tabaidens_stuff": "Aidens Stuff",
+      "item.minecraftmodded.steelt_sword": "Steel Sword",
+      "item.minecraftmodded.steelt_hoe": "Steel Hoe",
+      "item.minecraftmodded.thebright": "The bright Portal Igniter",
+      "block.minecraftmodded.dead_pressure_plate": "Dead Pressure Plate",
+      "item.minecraftmodded.igniter_2": "Igniter 2",
+      "block.minecraftmodded.brightblock": "Prosperity Block",
+      "block.minecraftmodded.dead_slab": "Dead Slab",
+      "block.minecraftmodded.deadsapling": "Deadsapling",
+      "item.minecraftmodded.brightsludge": "Dark Prosperity Sludge",
       "item.minecraftmodded.steelingot": "Steel Ingot",
       "item.minecraftmodded.ak_47": "Ak-47",
       "block.minecraftmodded.eeeee": "dark_ore",
-      "block.minecraftmodded.brightore": "Brightore",
       "item.minecraftmodded.thebright_23_spawn_egg": "The bright Spawn Egg",
-      "item.minecraftmodded.brightcross": "Dark Eye",
       "item.minecraftmodded.brighthoe": "Brighthoe",
       "biome.minecraftmodded.thedown": "The down",
       "item.minecraftmodded.brightpick": "Bright pickaxe",
       "advancements.whatawaste.descr": "you have crafted a bright hoe",
-      "entity.minecraftmodded.thebright_23": "The bright",
-      "block.minecraftmodded.pureobsidian": "Pureobsidian",
-      "block.minecraftmodded.brightinfusedobsidian": "Brightinfusedobsidian",
+      "item.minecraftmodded.steel_i_armor_boots": "Steel Boots",
+      "block.minecraftmodded.dead_button": "Dead Button",
+      "block.minecraftmodded.brightinfusedobsidian": "Prosperity Infused Obsidian",
       "block.minecraftmodded.summoner": "Summoner",
-      "item.minecraftmodded.bright": "Bright",
+      "block.minecraftmodded.dead_fence": "Dead Fence",
       "item.minecraftmodded.iridium_ingot": "Iridium",
-      "itemGroup.tabaidens_stuff": "Aidens Stuff",
+      "item.minecraftmodded.steel_i_armor_helmet": "Steel Helmet",
+      "block.minecraftmodded.dead_wood": "Dead Wood",
       "advancements.whatawaste.title": "What a waste",
       "item.minecraftmodded.empty_casing": "Empty Casing",
       "item.minecraftmodded.brightshovel": "Brightshovel",
       "block.minecraftmodded.iridium_ore": "Iridium Ore",
+      "item.minecraftmodded.spear": "Spear",
+      "item.minecraftmodded.steelt_shovel": "Steel Shovel",
       "item.minecraftmodded.bullet": "Asault Rifle Ammo",
+      "block.minecraftmodded.dead_log": "Dead Log",
+      "block.minecraftmodded.dead_fence_gate": "Dead Fence Gate",
       "block.minecraftmodded.iridium_block": "Block of Iridium",
+      "item.minecraftmodded.steelt_axe": "Steel Axe",
       "itemGroup.tablucascrap": "Luca\u0027s crap",
       "item.minecraftmodded.brightsword": "Brightsword",
-      "item.minecraftmodded.thebright": "The bright Portal Igniter",
-      "item.minecraftmodded.igniter_2": "Igniter 2",
-      "subtitles.ak47sound": "Scrraaattaattaaa!!!!",
-      "block.minecraftmodded.brightblock": "Brightblock"
+      "subtitles.ak47sound": "Scrraaattaattaaa!!!!"
     }
   },
   "foldersRoot": {
@@ -629,6 +1046,10 @@
           },
           {
             "name": "Creative Tab",
+            "children": []
+          },
+          {
+            "name": "Armour",
             "children": []
           }
         ]
