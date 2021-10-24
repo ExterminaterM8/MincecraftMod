@@ -1,0 +1,24 @@
+{
+  "group": "minecraftmodded",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraftmodded:steelingot"
+    },
+    "1": {
+      "item": "minecraft:gunpowder"
+    },
+    "2": {
+      "item": "minecraftmodded:empty_casing"
+    }
+  },
+  "result": {
+    "item": "minecraftmodded:bullet",
+    "count": 1
+  }
+}

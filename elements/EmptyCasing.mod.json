@@ -3,9 +3,9 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "bullet",
+    "texture": "bulletcasing",
     "customModelName": "Normal",
-    "name": "Asault Rifle Ammo",
+    "name": "Empty Casing",
     "rarity": "COMMON",
     "creativeTab": {
       "value": "CUSTOM:AidensStuff"
@@ -29,9 +29,6 @@
     "guiBoundTo": "<NONE>",
     "inventorySize": 9,
     "inventoryStackSize": 64,
-    "onRightClickedOnBlock": {
-      "name": "BulletRightClickedOnBlock"
-    },
     "hasDispenseBehavior": false
   }
 }

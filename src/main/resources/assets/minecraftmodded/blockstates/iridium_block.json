@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "minecraftmodded:block/iridium_block"
+    }
+  }
+}

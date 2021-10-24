@@ -336,7 +336,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "igniter_2",
-      "path": "~/Aidens_Stuff"
+      "path": "~/Aidens_Stuff/Items"
     },
     {
       "name": "AidensStuff",
@@ -346,7 +346,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "aidens_stuff",
-      "path": "~/Aidens_Stuff"
+      "path": "~/Aidens_Stuff/Creative Tab"
     },
     {
       "name": "Bullet",
@@ -356,7 +356,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "bullet",
-      "path": "~/Aidens_Stuff"
+      "path": "~/Aidens_Stuff/Items"
     },
     {
       "name": "Ak47RangedItemUsed",
@@ -390,7 +390,7 @@
           }
         ]
       },
-      "path": "~/Aidens_Stuff"
+      "path": "~/Aidens_Stuff/Procedures"
     },
     {
       "name": "Ak47",
@@ -400,7 +400,151 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "ak_47",
-      "path": "~/Aidens_Stuff"
+      "path": "~/Aidens_Stuff/Weapons"
+    },
+    {
+      "name": "EmptyCasing",
+      "type": "item",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "empty_casing",
+      "path": "~/Aidens_Stuff/Items"
+    },
+    {
+      "name": "BulletRightClickedOnBlock",
+      "type": "procedure",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bullet_right_clicked_on_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Aidens_Stuff/Procedures"
+    },
+    {
+      "name": "IridiumIngot",
+      "type": "item",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iridium_ingot",
+      "path": "~/Aidens_Stuff/Items"
+    },
+    {
+      "name": "IridiumOre",
+      "type": "block",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iridium_ore",
+      "path": "~/Aidens_Stuff/Blocks"
+    },
+    {
+      "name": "IridiumBlock",
+      "type": "block",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iridium_block",
+      "path": "~/Aidens_Stuff/Blocks"
+    },
+    {
+      "name": "IridiumOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iridium_ore_block_recipe",
+      "path": "~/Aidens_Stuff/Recipes"
+    },
+    {
+      "name": "IridiumBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iridium_block_ore_recipe",
+      "path": "~/Aidens_Stuff/Recipes"
+    },
+    {
+      "name": "IridiumOreSmelting",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iridium_ore_smelting",
+      "path": "~/Aidens_Stuff/Recipes"
+    },
+    {
+      "name": "Steelingot",
+      "type": "item",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steelingot",
+      "path": "~/Aidens_Stuff/Items"
+    },
+    {
+      "name": "Steel",
+      "type": "recipe",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel",
+      "path": "~/Aidens_Stuff/Recipes"
+    },
+    {
+      "name": "Bulletrecipe",
+      "type": "recipe",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bulletrecipe",
+      "path": "~/Aidens_Stuff/Recipes"
+    },
+    {
+      "name": "Bulletgunrecipe",
+      "type": "recipe",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bulletgunrecipe",
+      "path": "~/Aidens_Stuff/Recipes"
     }
   ],
   "variable_elements": [],
@@ -418,6 +562,7 @@
     "en_us": {
       "item.minecraftmodded.brightsludge": "Dark sludge",
       "item.minecraftmodded.brightaxe": "Bright axe",
+      "item.minecraftmodded.steelingot": "Steel Ingot",
       "item.minecraftmodded.ak_47": "Ak-47",
       "block.minecraftmodded.eeeee": "dark_ore",
       "block.minecraftmodded.brightore": "Brightore",
@@ -427,15 +572,19 @@
       "biome.minecraftmodded.thedown": "The down",
       "item.minecraftmodded.brightpick": "Bright pickaxe",
       "advancements.whatawaste.descr": "you have crafted a bright hoe",
-      "block.minecraftmodded.pureobsidian": "Pureobsidian",
       "entity.minecraftmodded.thebright_23": "The bright",
+      "block.minecraftmodded.pureobsidian": "Pureobsidian",
       "block.minecraftmodded.brightinfusedobsidian": "Brightinfusedobsidian",
       "block.minecraftmodded.summoner": "Summoner",
       "item.minecraftmodded.bright": "Bright",
+      "item.minecraftmodded.iridium_ingot": "Iridium",
       "itemGroup.tabaidens_stuff": "Aidens Stuff",
       "advancements.whatawaste.title": "What a waste",
+      "item.minecraftmodded.empty_casing": "Empty Casing",
       "item.minecraftmodded.brightshovel": "Brightshovel",
+      "block.minecraftmodded.iridium_ore": "Iridium Ore",
       "item.minecraftmodded.bullet": "Asault Rifle Ammo",
+      "block.minecraftmodded.iridium_block": "Block of Iridium",
       "itemGroup.tablucascrap": "Luca\u0027s crap",
       "item.minecraftmodded.brightsword": "Brightsword",
       "item.minecraftmodded.thebright": "The bright Portal Igniter",
@@ -453,7 +602,36 @@
       },
       {
         "name": "Aidens_Stuff",
-        "children": []
+        "children": [
+          {
+            "name": "Procedures",
+            "children": []
+          },
+          {
+            "name": "Tools",
+            "children": []
+          },
+          {
+            "name": "Weapons",
+            "children": []
+          },
+          {
+            "name": "Blocks",
+            "children": []
+          },
+          {
+            "name": "Recipes",
+            "children": []
+          },
+          {
+            "name": "Items",
+            "children": []
+          },
+          {
+            "name": "Creative Tab",
+            "children": []
+          }
+        ]
       }
     ]
   },

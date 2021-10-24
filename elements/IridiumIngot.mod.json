@@ -3,12 +3,12 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "bullet",
+    "texture": "iridium_ingot",
     "customModelName": "Normal",
-    "name": "Asault Rifle Ammo",
+    "name": "Iridium",
     "rarity": "COMMON",
     "creativeTab": {
-      "value": "CUSTOM:AidensStuff"
+      "value": "MISC"
     },
     "stackSize": 64,
     "enchantability": 0,
@@ -29,9 +29,6 @@
     "guiBoundTo": "<NONE>",
     "inventorySize": 9,
     "inventoryStackSize": 64,
-    "onRightClickedOnBlock": {
-      "name": "BulletRightClickedOnBlock"
-    },
     "hasDispenseBehavior": false
   }
 }

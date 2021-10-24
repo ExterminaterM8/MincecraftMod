@@ -1,0 +1,13 @@
+{
+  "group": "minecraftmodded",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraftmodded:iridium_block"
+    }
+  ],
+  "result": {
+    "item": "minecraftmodded:iridium_ingot",
+    "count": 9
+  }
+}
