@@ -720,7 +720,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "dead_wood",
-      "path": "~/Aidens_Stuff"
+      "path": "~/Aidens_Stuff/Blocks"
     },
     {
       "name": "DeadLog",
@@ -730,7 +730,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "dead_log",
-      "path": "~/Aidens_Stuff"
+      "path": "~/Aidens_Stuff/Blocks"
     },
     {
       "name": "DeadPlanks",
@@ -740,7 +740,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "dead_planks",
-      "path": "~/Aidens_Stuff"
+      "path": "~/Aidens_Stuff/Blocks"
     },
     {
       "name": "DeadLeaves",
@@ -750,7 +750,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "dead_leaves",
-      "path": "~/Aidens_Stuff"
+      "path": "~/Aidens_Stuff/Blocks"
     },
     {
       "name": "DeadStairs",
@@ -760,7 +760,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "dead_stairs",
-      "path": "~/Aidens_Stuff"
+      "path": "~/Aidens_Stuff/Blocks"
     },
     {
       "name": "DeadSlab",
@@ -770,7 +770,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "dead_slab",
-      "path": "~/Aidens_Stuff"
+      "path": "~/Aidens_Stuff/Blocks"
     },
     {
       "name": "DeadFence",
@@ -780,7 +780,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "dead_fence",
-      "path": "~/Aidens_Stuff"
+      "path": "~/Aidens_Stuff/Blocks"
     },
     {
       "name": "DeadFenceGate",
@@ -790,7 +790,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "dead_fence_gate",
-      "path": "~/Aidens_Stuff"
+      "path": "~/Aidens_Stuff/Blocks"
     },
     {
       "name": "DeadPressurePlate",
@@ -800,7 +800,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "dead_pressure_plate",
-      "path": "~/Aidens_Stuff"
+      "path": "~/Aidens_Stuff/Blocks"
     },
     {
       "name": "DeadButton",
@@ -810,7 +810,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "dead_button",
-      "path": "~/Aidens_Stuff"
+      "path": "~/Aidens_Stuff/Blocks"
     },
     {
       "name": "DeadItemsTag",
@@ -820,7 +820,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "dead_items_tag",
-      "path": "~/Aidens_Stuff"
+      "path": "~/Aidens_Stuff/Tags"
     },
     {
       "name": "DeadWoodRecipe",
@@ -830,7 +830,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "dead_wood_recipe",
-      "path": "~/Aidens_Stuff"
+      "path": "~/Aidens_Stuff/Recipes"
     },
     {
       "name": "DeadPlanksRecipe",
@@ -840,7 +840,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "dead_planks_recipe",
-      "path": "~/Aidens_Stuff"
+      "path": "~/Aidens_Stuff/Recipes"
     },
     {
       "name": "DeadStairsRecipe",
@@ -850,7 +850,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "dead_stairs_recipe",
-      "path": "~/Aidens_Stuff"
+      "path": "~/Aidens_Stuff/Recipes"
     },
     {
       "name": "DeadSlabRecipe",
@@ -860,7 +860,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "dead_slab_recipe",
-      "path": "~/Aidens_Stuff"
+      "path": "~/Aidens_Stuff/Recipes"
     },
     {
       "name": "DeadFenceRecipe",
@@ -870,7 +870,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "dead_fence_recipe",
-      "path": "~/Aidens_Stuff"
+      "path": "~/Aidens_Stuff/Recipes"
     },
     {
       "name": "DeadFenceGateRecipe",
@@ -880,7 +880,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "dead_fence_gate_recipe",
-      "path": "~/Aidens_Stuff"
+      "path": "~/Aidens_Stuff/Recipes"
     },
     {
       "name": "DeadPressurePlateRecipe",
@@ -890,7 +890,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "dead_pressure_plate_recipe",
-      "path": "~/Aidens_Stuff"
+      "path": "~/Aidens_Stuff/Recipes"
     },
     {
       "name": "DeadButtonRecipe",
@@ -900,7 +900,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "dead_button_recipe",
-      "path": "~/Aidens_Stuff"
+      "path": "~/Aidens_Stuff/Recipes"
     },
     {
       "name": "DeadStickRecipe",
@@ -910,7 +910,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "dead_stick_recipe",
-      "path": "~/Aidens_Stuff"
+      "path": "~/Aidens_Stuff/Recipes"
     },
     {
       "name": "Deadsapling",
@@ -920,7 +920,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "deadsapling",
-      "path": "~/Aidens_Stuff"
+      "path": "~/Aidens_Stuff/Blocks"
     },
     {
       "name": "Deadtree",
@@ -930,7 +930,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "deadtree",
-      "path": "~/Aidens_Stuff"
+      "path": "~/Aidens_Stuff/Structures"
     },
     {
       "name": "Spear",
@@ -969,8 +969,8 @@
       "item.minecraftmodded.bright": "Prosperity Gem",
       "item.minecraftmodded.steelt_pickaxe": "Steel Pickaxe",
       "itemGroup.tabaidens_stuff": "Aidens Stuff",
-      "item.minecraftmodded.steelt_sword": "Steel Sword",
       "item.minecraftmodded.steelt_hoe": "Steel Hoe",
+      "item.minecraftmodded.steelt_sword": "Steel Sword",
       "item.minecraftmodded.thebright": "The bright Portal Igniter",
       "block.minecraftmodded.dead_pressure_plate": "Dead Pressure Plate",
       "item.minecraftmodded.igniter_2": "Igniter 2",
@@ -1050,6 +1050,14 @@
           },
           {
             "name": "Armour",
+            "children": []
+          },
+          {
+            "name": "Tags",
+            "children": []
+          },
+          {
+            "name": "Structures",
             "children": []
           }
         ]
