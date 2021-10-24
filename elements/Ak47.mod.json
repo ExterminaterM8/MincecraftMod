@@ -1,0 +1,40 @@
+{
+  "_fv": 24,
+  "_type": "rangeditem",
+  "definition": {
+    "renderType": 0,
+    "texture": "ak47",
+    "customModelName": "Normal",
+    "name": "Ak-47",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:AidensStuff"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "CUSTOM:Bullet"
+    },
+    "shootConstantly": false,
+    "usageCount": 336,
+    "actionSound": {
+      "value": "entity.arrow.shoot"
+    },
+    "hasGlow": false,
+    "animation": "bow",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 1.2000000000000002,
+    "onRangedItemUsed": {
+      "name": "Ak47RangedItemUsed"
+    },
+    "bulletPower": 4.0,
+    "bulletDamage": 9.0,
+    "bulletKnockback": 4,
+    "bulletParticles": false,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:Bullet"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": ""
+  }
+}

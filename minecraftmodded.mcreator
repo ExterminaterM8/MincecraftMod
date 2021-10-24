@@ -9,7 +9,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "brightblock",
-      "path": "~/lucas_stuff"
+      "path": "~/Lucas_Stuff"
     },
     {
       "name": "Brightore",
@@ -19,7 +19,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "brightore",
-      "path": "~/lucas_stuff"
+      "path": "~/Lucas_Stuff"
     },
     {
       "name": "Bright",
@@ -29,7 +29,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "bright",
-      "path": "~/lucas_stuff"
+      "path": "~/Lucas_Stuff"
     },
     {
       "name": "Brightcross",
@@ -39,7 +39,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "brightcross",
-      "path": "~/lucas_stuff"
+      "path": "~/Lucas_Stuff"
     },
     {
       "name": "Btobc",
@@ -49,7 +49,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "btobc",
-      "path": "~/lucas_stuff"
+      "path": "~/Lucas_Stuff"
     },
     {
       "name": "Brightsludge",
@@ -59,7 +59,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "brightsludge",
-      "path": "~/lucas_stuff"
+      "path": "~/Lucas_Stuff"
     },
     {
       "name": "Eee",
@@ -69,7 +69,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "eee",
-      "path": "~/lucas_stuff"
+      "path": "~/Lucas_Stuff"
     },
     {
       "name": "Eeeeee",
@@ -79,7 +79,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "eeeeee",
-      "path": "~/lucas_stuff"
+      "path": "~/Lucas_Stuff"
     },
     {
       "name": "Ooooo",
@@ -89,7 +89,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "ooooo",
-      "path": "~/lucas_stuff"
+      "path": "~/Lucas_Stuff"
     },
     {
       "name": "Oooo",
@@ -99,7 +99,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "oooo",
-      "path": "~/lucas_stuff"
+      "path": "~/Lucas_Stuff"
     },
     {
       "name": "Brightinfusedobsidian",
@@ -109,7 +109,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "brightinfusedobsidian",
-      "path": "~/lucas_stuff"
+      "path": "~/Lucas_Stuff"
     },
     {
       "name": "BLtoBIO",
@@ -119,7 +119,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "b_lto_bio",
-      "path": "~/lucas_stuff"
+      "path": "~/Lucas_Stuff"
     },
     {
       "name": "Lucascrap",
@@ -129,7 +129,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "lucascrap",
-      "path": "~/lucas_stuff"
+      "path": "~/Lucas_Stuff"
     },
     {
       "name": "Summoner",
@@ -139,7 +139,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "summoner",
-      "path": "~/lucas_stuff"
+      "path": "~/Lucas_Stuff"
     },
     {
       "name": "Summonere",
@@ -149,7 +149,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "summonere",
-      "path": "~/lucas_stuff"
+      "path": "~/Lucas_Stuff"
     },
     {
       "name": "SummonerRedstoneOn",
@@ -182,7 +182,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/Lucas_Stuff"
     },
     {
       "name": "Thebright23",
@@ -192,7 +193,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "thebright_23",
-      "path": "~/lucas_stuff"
+      "path": "~/Lucas_Stuff"
     },
     {
       "name": "Pureobsidian",
@@ -202,7 +203,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "pureobsidian",
-      "path": "~/lucas_stuff"
+      "path": "~/Lucas_Stuff"
     },
     {
       "name": "Thebright",
@@ -215,7 +216,7 @@
       "metadata": {
         "ep": true
       },
-      "path": "~/lucas_stuff"
+      "path": "~/Lucas_Stuff"
     },
     {
       "name": "Eeeee",
@@ -225,7 +226,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "eeeee",
-      "path": "~/lucas_stuff"
+      "path": "~/Lucas_Stuff"
     },
     {
       "name": "Blste",
@@ -235,7 +236,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "blste",
-      "path": "~/lucas_stuff"
+      "path": "~/Lucas_Stuff"
     },
     {
       "name": "Smelte",
@@ -245,7 +246,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "smelte",
-      "path": "~/lucas_stuff"
+      "path": "~/Lucas_Stuff"
     },
     {
       "name": "Thedown",
@@ -255,7 +256,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "thedown",
-      "path": "~/lucas_stuff"
+      "path": "~/Lucas_Stuff"
     },
     {
       "name": "E",
@@ -265,7 +266,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "e",
-      "path": "~/lucas_stuff"
+      "path": "~/Lucas_Stuff"
     },
     {
       "name": "Brightsword",
@@ -275,7 +276,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "brightsword",
-      "path": "~/lucas_stuff"
+      "path": "~/Lucas_Stuff"
     },
     {
       "name": "Brightpick",
@@ -285,7 +286,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "brightpick",
-      "path": "~/lucas_stuff"
+      "path": "~/Lucas_Stuff"
     },
     {
       "name": "Brightaxe",
@@ -295,7 +296,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "brightaxe",
-      "path": "~/lucas_stuff"
+      "path": "~/Lucas_Stuff"
     },
     {
       "name": "Brightshovel",
@@ -305,7 +306,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "brightshovel",
-      "path": "~/lucas_stuff"
+      "path": "~/Lucas_Stuff"
     },
     {
       "name": "Brighthoe",
@@ -315,7 +316,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "brighthoe",
-      "path": "~/lucas_stuff"
+      "path": "~/Lucas_Stuff"
     },
     {
       "name": "Whatawaste",
@@ -325,7 +326,7 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "whatawaste",
-      "path": "~/lucas_stuff"
+      "path": "~/Lucas_Stuff"
     },
     {
       "name": "Igniter2",
@@ -334,17 +335,90 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "igniter_2"
+      "registry_name": "igniter_2",
+      "path": "~/Aidens_Stuff"
+    },
+    {
+      "name": "AidensStuff",
+      "type": "tab",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aidens_stuff",
+      "path": "~/Aidens_Stuff"
+    },
+    {
+      "name": "Bullet",
+      "type": "item",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bullet",
+      "path": "~/Aidens_Stuff"
+    },
+    {
+      "name": "Ak47RangedItemUsed",
+      "type": "procedure",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ak_47_ranged_item_used",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Aidens_Stuff"
+    },
+    {
+      "name": "Ak47",
+      "type": "rangeditem",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ak_47",
+      "path": "~/Aidens_Stuff"
     }
   ],
   "variable_elements": [],
-  "sound_elements": [],
+  "sound_elements": [
+    {
+      "name": "ak47sound",
+      "files": [
+        "156073__duesto__ak-47"
+      ],
+      "category": "player",
+      "subtitle": "Scrraaattaattaaa!!!!"
+    }
+  ],
   "language_map": {
     "en_us": {
-      "advancements.whatawaste.title": "What a waste",
       "item.minecraftmodded.brightsludge": "Dark sludge",
       "item.minecraftmodded.brightaxe": "Bright axe",
-      "item.minecraftmodded.brightshovel": "Brightshovel",
+      "item.minecraftmodded.ak_47": "Ak-47",
       "block.minecraftmodded.eeeee": "dark_ore",
       "block.minecraftmodded.brightore": "Brightore",
       "item.minecraftmodded.thebright_23_spawn_egg": "The bright Spawn Egg",
@@ -353,15 +427,20 @@
       "biome.minecraftmodded.thedown": "The down",
       "item.minecraftmodded.brightpick": "Bright pickaxe",
       "advancements.whatawaste.descr": "you have crafted a bright hoe",
-      "itemGroup.tablucascrap": "Luca\u0027s crap",
       "entity.minecraftmodded.thebright_23": "The bright",
       "block.minecraftmodded.pureobsidian": "Pureobsidian",
-      "item.minecraftmodded.brightsword": "Brightsword",
-      "item.minecraftmodded.thebright": "The bright Portal Igniter",
       "block.minecraftmodded.brightinfusedobsidian": "Brightinfusedobsidian",
       "block.minecraftmodded.summoner": "Summoner",
-      "item.minecraftmodded.igniter_2": "Igniter 2",
       "item.minecraftmodded.bright": "Bright",
+      "itemGroup.tabaidens_stuff": "Aidens Stuff",
+      "advancements.whatawaste.title": "What a waste",
+      "item.minecraftmodded.brightshovel": "Brightshovel",
+      "item.minecraftmodded.bullet": "Asault Rifle Ammo",
+      "itemGroup.tablucascrap": "Luca\u0027s crap",
+      "item.minecraftmodded.brightsword": "Brightsword",
+      "item.minecraftmodded.thebright": "The bright Portal Igniter",
+      "item.minecraftmodded.igniter_2": "Igniter 2",
+      "subtitles.ak47sound": "Scrraaattaattaaa!!!!",
       "block.minecraftmodded.brightblock": "Brightblock"
     }
   },
@@ -369,19 +448,11 @@
     "name": "~",
     "children": [
       {
-        "name": "lucas_stuff",
+        "name": "Lucas_Stuff",
         "children": []
       },
       {
-        "name": "Poggers",
-        "children": []
-      },
-      {
-        "name": "MOBs",
-        "children": []
-      },
-      {
-        "name": "minecraftmod",
+        "name": "Aidens_Stuff",
         "children": []
       }
     ]

@@ -45,6 +45,8 @@ public class MinecraftmoddedModElements {
 	public final List<Supplier<Enchantment>> enchantments = new ArrayList<>();
 	public static Map<ResourceLocation, net.minecraft.util.SoundEvent> sounds = new HashMap<>();
 	public MinecraftmoddedModElements() {
+		sounds.put(new ResourceLocation("minecraftmodded", "ak47sound"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("minecraftmodded", "ak47sound")));
 		try {
 			ModFileScanData modFileInfo = ModList.get().getModFileById("minecraftmodded").getFile().getScanResult();
 			Set<ModFileScanData.AnnotationData> annotations = modFileInfo.getAnnotations();

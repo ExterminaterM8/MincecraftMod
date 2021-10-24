@@ -1,1 +1,12 @@
-{}
+{
+  "ak47sound": {
+    "category": "player",
+    "subtitle": "subtitles.ak47sound",
+    "sounds": [
+      {
+        "name": "minecraftmodded:156073__duesto__ak-47",
+        "stream": false
+      }
+    ]
+  }
+}
