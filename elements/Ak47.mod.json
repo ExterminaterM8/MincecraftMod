@@ -17,7 +17,7 @@
     "shootConstantly": false,
     "usageCount": 336,
     "actionSound": {
-      "value": "entity.arrow.shoot"
+      "value": "CUSTOM:ak47sound"
     },
     "hasGlow": false,
     "animation": "bow",
