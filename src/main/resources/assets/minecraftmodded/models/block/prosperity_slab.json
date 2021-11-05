@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "minecraftmodded:blocks/prosperity_planks",
+    "top": "minecraftmodded:blocks/prosperity_planks",
+    "side": "minecraftmodded:blocks/prosperity_planks"
+  }
+}

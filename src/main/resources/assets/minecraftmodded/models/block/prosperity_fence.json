@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "minecraftmodded:blocks/prosperity_planks",
+    "particle": "minecraftmodded:blocks/prosperity_planks"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "minecraftmodded:block/prosperity_wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "minecraftmodded:block/prosperity_wood"
+    },
+    "axis=z": {
+      "model": "minecraftmodded:block/prosperity_wood",
+      "x": 90
+    }
+  }
+}

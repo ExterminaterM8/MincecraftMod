@@ -1,0 +1,13 @@
+{
+  "group": "minecraftmodded",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:prosperity_log"
+    }
+  ],
+  "result": {
+    "item": "minecraftmodded:prosperity_planks",
+    "count": 4
+  }
+}

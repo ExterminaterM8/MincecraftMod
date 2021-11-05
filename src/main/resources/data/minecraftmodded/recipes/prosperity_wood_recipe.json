@@ -1,0 +1,26 @@
+{
+  "group": "minecraftmodded",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraftmodded:prosperity_log"
+    },
+    "1": {
+      "item": "minecraftmodded:prosperity_log"
+    },
+    "2": {
+      "item": "minecraftmodded:prosperity_log"
+    },
+    "3": {
+      "item": "minecraftmodded:prosperity_log"
+    }
+  },
+  "result": {
+    "item": "minecraftmodded:prosperity_wood",
+    "count": 3
+  }
+}
